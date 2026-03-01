@@ -1,0 +1,22 @@
+medicine_name,manufacturer,uses,label
+Paracetamol,Cipla,Fever and pain relief,1
+Crocin,GSK,Fever and headache,1
+Dolo 650,Micro Labs,Fever and body pain,1
+Brufen,Abbott,Pain and inflammation,1
+Vicks Action 500,Procter & Gamble,Cold and flu relief,1
+Azithromycin,Aurobindo,Antibiotic for bacterial infection,1
+Amoxicillin,Cipla,Antibiotic for infections,1
+Cetirizine,Dr Reddy,Allergy relief,1
+ORS,Torrent,Dehydration treatment,1
+Pantoprazole,Sun Pharma,Acidity and stomach ulcers,1
+
+Para-500,Unknown,Fake painkiller,0
+Dolo 650X,NoName Labs,Suspicious fever tablet,0
+Crocin PlusX,Fake Pharma,Unknown pain relief,0
+Azithro-250F,Unknown,Fake antibiotic medicine,0
+Cetrizine-X,Unverified Labs,Allergy tablet with no approval,0
+Amox-500 Fake,Local Supplier,Fake antibiotic capsule,0
+PainOff,No Manufacturer,Unverified pain relief tablet,0
+ColdFree,Unknown,Fake cold medicine,0
+HealFast,FakeCare Labs,Unapproved medical claims,0
+QuickRelief,Unknown,Illegal medicine product,0
