@@ -19,7 +19,6 @@ This project is an AI-based Fake Medicine Detection System that analyzes medicin
 
 ## Tech Stack
 - Python
-- NLP
 - Machine Learning
 - Streamlit (for UI)
 - GitHub
